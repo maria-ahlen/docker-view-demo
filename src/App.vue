@@ -1,6 +1,7 @@
 <template>
 <main>
   <h1>Vue app that can run in a Docker container</h1>
+  <p>It's the Docker file that does it!</p>
 </main>
 </template>
 
